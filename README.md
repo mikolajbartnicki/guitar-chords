@@ -1,4 +1,4 @@
-# bartnicki.org
+# guitar-chords
 
 A collection of song lyrics with corresponding guitar chords in printer-friendly format.
 
